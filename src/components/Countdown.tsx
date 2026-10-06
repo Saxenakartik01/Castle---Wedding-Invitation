@@ -102,7 +102,7 @@ export default function Countdown() {
             href="#hero"
             className="mt-3 inline-block font-garamond text-xs tracking-wide text-amber-200/90 underline decoration-amber-300/40 underline-offset-4 transition hover:text-amber-100 sm:mt-4 sm:text-sm"
           >
-            missingpieceinvites.com
+          
           </a>
         </div>
       </div>
